@@ -12,7 +12,7 @@ function HeroSection() {
             <div class="mx-auto mt-10 flex justify-center px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8">
               <div class="text-center ">
                 <h1
-                  class="text-4xl font-extrabold tracking-tight text-gray-950 dark:text-slate-200 sm:text-5xl md:text-6xl">
+                  class="text-4xl font-extrabold tracking-tight text-slate-200 dark:text-slate-200 sm:text-5xl md:text-6xl">
                   <span class="block xl:inline"><span class="mb-1 block">Image Recognition</span>
                     <span class="bg-gradient-to-r from-indigo-400 to-pink-600 bg-clip-text text-transparent">
                       Question Answering and Object Detection
